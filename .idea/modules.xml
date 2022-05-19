@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TicTacToe-18d67c4e5fcf46020ca67f439fc74c81bd789cc4/TicTacToe.iml" filepath="$PROJECT_DIR$/TicTacToe-18d67c4e5fcf46020ca67f439fc74c81bd789cc4/TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TicTacToe-18d67c4e5fcf46020ca67f439fc74c81bd789cc4.iml" filepath="$PROJECT_DIR$/.idea/TicTacToe-18d67c4e5fcf46020ca67f439fc74c81bd789cc4.iml" />
+    </modules>
+  </component>
+</project>
